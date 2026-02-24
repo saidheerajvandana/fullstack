@@ -7,6 +7,7 @@ const CounsellorDashboard = () => {
   const { user, logout } = useAuth();
   const navigate = useNavigate();
   const [activeTab, setActiveTab] = useState('overview');
+  // eslint-disable-next-line no-unused-vars
   const [clients, setClients] = useState([
     { id: 1, name: 'Client A', status: 'active', sessions: 5, lastContact: '2 days ago' },
     { id: 2, name: 'Client B', status: 'active', sessions: 3, lastContact: '1 day ago' },

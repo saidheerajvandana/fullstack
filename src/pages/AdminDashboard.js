@@ -7,6 +7,7 @@ const AdminDashboard = () => {
   const { user, logout } = useAuth();
   const navigate = useNavigate();
   const [activeTab, setActiveTab] = useState('overview');
+  // eslint-disable-next-line no-unused-vars
   const [users, setUsers] = useState([
     { id: 1, email: 'victim@example.com', role: 'victim', status: 'active' },
     { id: 2, email: 'counsellor@example.com', role: 'counsellor', status: 'active' },

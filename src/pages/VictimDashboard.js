@@ -4,9 +4,11 @@ import { useAuth } from '../context/AuthContext';
 import '../styles/Dashboard.css';
 
 const VictimDashboard = () => {
+  // eslint-disable-next-line no-unused-vars
   const { user, logout } = useAuth();
   const navigate = useNavigate();
   const [activeTab, setActiveTab] = useState('overview');
+  // eslint-disable-next-line no-unused-vars
   const [resources, setResources] = useState([
     { id: 1, title: 'Protection Orders', description: 'Learn about legal protection orders', category: 'legal' },
     { id: 2, title: 'Safety Planning', description: 'Create a personalized safety plan', category: 'safety' },

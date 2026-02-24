@@ -7,6 +7,7 @@ const LegalAdvisorDashboard = () => {
   const { user, logout } = useAuth();
   const navigate = useNavigate();
   const [activeTab, setActiveTab] = useState('overview');
+  // eslint-disable-next-line no-unused-vars
   const [cases, setCases] = useState([
     { id: 1, name: 'Protection Order', status: 'active', client: 'Client A', dueDate: '2026-03-15' },
     { id: 2, name: 'Custody Case', status: 'pending', client: 'Client B', dueDate: '2026-03-20' },
