@@ -1,0 +1,198 @@
+{
+  "home": {
+    "title": "Support App",
+    "tagline": "Gender-Responsive Support for Domestic Violence Survivors",
+    "description": "A comprehensive platform providing resources, legal guidance, and emotional support",
+    "getHelp": "Get Help Now",
+    "learnMore": "Learn More",
+    "about": "About Our Platform",
+    "aboutDesc": "Our mission is to provide comprehensive support and resources for individuals facing domestic violence. We believe in gender equality, survivor empowerment, and creating safe spaces for recovery.",
+    "features": {
+      "resources": "Resources",
+      "resourcesDesc": "Access comprehensive information on legal rights, health services, and support options",
+      "counseling": "Counseling",
+      "counselingDesc": "Connect with trained counselors who provide professional guidance and emotional support",
+      "legal": "Legal Support",
+      "legalDesc": "Get legal advice and assistance with legal actions from experienced advisors",
+      "safety": "Safety",
+      "safetyDesc": "Your privacy and security are our top priorities with encrypted communications"
+    }
+  },
+  "navbar": {
+    "home": "Home",
+    "profile": "Profile",
+    "login": "Login"
+  },
+  "services": {
+    "title": "Our Services",
+    "victims": {
+      "title": "For Victims & Survivors",
+      "items": [
+        "Access to support resources and hotlines",
+        "Information on legal rights and protection orders",
+        "Connection with counseling services",
+        "Safety planning resources",
+        "Health and wellness information",
+        "Community support groups"
+      ]
+    },
+    "counselors": {
+      "title": "For Counselors",
+      "items": [
+        "Client management portal",
+        "Case documentation tools",
+        "Resource library",
+        "Progress tracking system",
+        "Collaboration features",
+        "Training materials"
+      ]
+    },
+    "legal": {
+      "title": "For Legal Advisors",
+      "items": [
+        "Legal resource database",
+        "Case management tools",
+        "Template library for legal documents",
+        "Client communication platform",
+        "Legal precedent repository",
+        "Updates on law changes"
+      ]
+    },
+    "admin": {
+      "title": "For Administrators",
+      "items": [
+        "User management system",
+        "Content management tools",
+        "Role-based access control",
+        "Data security management",
+        "Analytics and reporting",
+        "System monitoring"
+      ]
+    }
+  },
+  "whyChoose": {
+    "title": "Why Choose Our Platform?",
+    "genderResponsive": "Gender-Responsive",
+    "genderResponsiveDesc": "Designed with gender equality and women's empowerment in mind",
+    "secure": "Secure & Private",
+    "secureDesc": "Your data is protected with enterprise-grade security measures",
+    "available": "24/7 Available",
+    "availableDesc": "Round-the-clock access to resources and support information",
+    "expert": "Expert Network",
+    "expertDesc": "Connected with legal professionals, counselors, and advocates",
+    "channels": "Multiple Channels",
+    "channelsDesc": "Connect via chat, email, phone, or in-person consultations",
+    "inclusive": "Inclusive",
+    "inclusiveDesc": "Supporting survivors from all backgrounds and communities"
+  },
+  "emergency": {
+    "title": "Need Immediate Help?",
+    "notice": "If you are in immediate danger, please call emergency services (911 in the US)",
+    "hotline": "National Domestic Violence Hotline",
+    "hotlineNumber": "1-800-799-7233",
+    "available247": "Available 24/7 | Free & Confidential",
+    "text": "Text Support",
+    "textNumber": "Text START to 88788",
+    "chat": "Chat Support",
+    "chatDesc": "Available on our platform"
+  },
+  "login": {
+    "title": "Support App - Login",
+    "subtitle": "Combating Domestic Violence",
+    "selectRole": "Select Your Role:",
+    "email": "Email:",
+    "password": "Password:",
+    "loginButton": "Login",
+    "invalidCredentials": "Invalid credentials. Please try again.",
+    "fillAllFields": "Please fill in all fields",
+    "demoCredentials": "Demo Credentials:",
+    "admin": "Admin",
+    "victim": "Victim/Survivor",
+    "counsellor": "Counsellor",
+    "legal": "Legal Advisor",
+    "backHome": "← Back to Home"
+  },
+  "admin": {
+    "title": "Admin Dashboard",
+    "loggedIn": "Logged in as:",
+    "overview": "Overview",
+    "userManagement": "User Management",
+    "contentManagement": "Content Management",
+    "security": "Security",
+    "analytics": "Analytics",
+    "systemOverview": "System Overview",
+    "totalUsers": "Total Users",
+    "activeAccounts": "Active accounts",
+    "victimsSurvivors": "Victims/Survivors",
+    "seekingSupport": "Seeking support",
+    "counselors": "Counselors",
+    "available": "Available",
+    "legalAdvisors": "Legal Advisors",
+    "onPlatform": "On platform",
+    "systemHealth": "System Health"
+  },
+  "victim": {
+    "title": "Survivor Support Dashboard",
+    "subtitle": "Welcome, we're here to support you",
+    "yourJourney": "Your Support Journey",
+    "inCrisis": "In Crisis?",
+    "quickActions": "Quick Actions",
+    "chatWithCounselor": "Chat with Counselor",
+    "browseResources": "Browse Resources",
+    "scheduleConsultation": "Schedule Consultation",
+    "mySafetyPlan": "My Safety Plan",
+    "resourcesSaved": "Resources Saved",
+    "sessionsCompleted": "Sessions Completed",
+    "counselorAssigned": "Counselor Assigned",
+    "yourRights": "Your Rights",
+    "rights": [
+      "Right to safety and protection",
+      "Right to access support services",
+      "Right to legal protection",
+      "Right to confidentiality",
+      "Right to free legal counsel",
+      "Right to healing and recovery"
+    ]
+  },
+  "counselor": {
+    "title": "Counselor Dashboard",
+    "professional": "Professional:",
+    "myClients": "My Clients",
+    "sessions": "Sessions",
+    "progressTracking": "Progress Tracking",
+    "documentation": "Documentation",
+    "activeClients": "Active Clients",
+    "sessionsThisMonth": "Sessions This Month",
+    "pendingFollowUps": "Pending Follow-ups",
+    "clientSatisfaction": "Client Satisfaction"
+  },
+  "legal": {
+    "title": "Legal Advisor Dashboard",
+    "attorney": "Attorney:",
+    "caseManagement": "Case Management",
+    "legalResources": "Legal Resources",
+    "documentTemplates": "Document Templates",
+    "consultations": "Consultations",
+    "legalUpdates": "Legal Updates",
+    "activeCases": "Active Cases",
+    "consultationsThisMonth": "Consultations This Month",
+    "casesResolved": "Cases Resolved",
+    "clientSuccessRate": "Client Success Rate"
+  },
+  "common": {
+    "logout": "Logout",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "add": "Add",
+    "update": "Update",
+    "submit": "Submit",
+    "close": "Close",
+    "download": "Download",
+    "print": "Print",
+    "view": "View",
+    "contact": "Contact",
+    "selectLanguage": "Select Language"
+  }
+}
